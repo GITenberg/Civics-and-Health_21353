@@ -1,0 +1,38 @@
+_repo: Civics-and-Health_21353
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Sedgwick, W. T. (William Thompson)
+    alias: Sedgwick, William Thompson
+    birthdate: 1855
+    deathdate: 1921
+    gutenberg_agent_id: '36818'
+    url: http://www.gutenberg.org/2009/agents/36818
+    wikipedia: http://en.wikipedia.org/wiki/William_Thompson_Sedgwick
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allen, William H. (WIlliam Harvey)
+    birthdate: 1874
+    deathdate: 1963
+    gutenberg_agent_id: '9879'
+    url: http://www.gutenberg.org/2009/agents/9879
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2007-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21353'
+  lccn: 09005261
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hygiene'
+- !lcc 'RA'
+- !lcsh 'Public health'
+title: Civics and Health
+url: http://www.gutenberg.org/ebooks/21353
